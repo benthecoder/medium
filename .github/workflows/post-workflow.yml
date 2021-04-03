@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 100
+          max_post_count: 50
           feed_list: "https://medium.com/feed/@benedictxneo"
-          template: "[$title]($url) -- $date $newline $description"
+          template: "[$title]($url)  $date"
           date_format: "UTC:ddd mmm dd yyyy h:MM TT"
