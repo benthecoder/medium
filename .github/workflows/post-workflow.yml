@@ -15,4 +15,4 @@ jobs:
           max_post_count: 50
           feed_list: "https://medium.com/feed/@benedictxneo"
           template: "$newline - [$title]($url) - $date $newline"
-          date_format: "UTC:ddd mmm dd yyyy h:MM TT"
+          date_format: "UTC+8:ddd mmm dd yyyy h:MM TT"
