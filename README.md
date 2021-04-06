@@ -1,6 +1,10 @@
 # medium
 All my medium articles in one place.
 
+Scraped with [simplescraper.io](https://simplescraper.io/)  
+Converted json to markdown table with [this website](https://kdelmonte.github.io/json-to-markdown-table/)
+
+
 | Title                                                                           | Title_link                                                                                                             | Date         |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
 | Top 5 Machine Learning Algorithms Explained                                     | https://medium.com/bitgrit-data-science-publication/top-5-machine-learning-algorithms-explained-d15234b627f7           | Mar 30 2021  |
