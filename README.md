@@ -5,7 +5,7 @@ Scraped with [simplescraper.io](https://simplescraper.io/)
 Converted json to markdown table with [this website](https://kdelmonte.github.io/json-to-markdown-table/)
 
 | Title                                                                           | Date         |
-| ------------------------------------------------------------------------------- | ------------ |
+| ------------------------------------------------------------------------------- | :------------: |
 | [Top 5 Machine Learning Algorithms Explained](https://medium.com/bitgrit-data-science-publication/top-5-machine-learning-algorithms-explained-d15234b627f7)| Mar 30 2021  |
 | [Building an XGBoost Model to Predict Video Popularity](https://medium.com/bitgrit-data-science-publication/building-an-xgboost-model-to-predict-video-popularity-)| Mar 19 2021  |
 | [12 Data Science & AI Competitions to Advance Your Skills in 2021](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c)| Dec 21, 2020 |
